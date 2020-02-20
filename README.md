@@ -1,0 +1,2 @@
+# SwiftUIMyCard
+SwiftUIの練習
